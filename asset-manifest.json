@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WL_React_photo-gallery/static/css/main.ee83c3cf.chunk.css",
-    "main.js": "/WL_React_photo-gallery/static/js/main.c6cc218e.chunk.js",
-    "main.js.map": "/WL_React_photo-gallery/static/js/main.c6cc218e.chunk.js.map",
+    "main.js": "/WL_React_photo-gallery/static/js/main.3de50b19.chunk.js",
+    "main.js.map": "/WL_React_photo-gallery/static/js/main.3de50b19.chunk.js.map",
     "runtime-main.js": "/WL_React_photo-gallery/static/js/runtime-main.a2aa5356.js",
     "runtime-main.js.map": "/WL_React_photo-gallery/static/js/runtime-main.a2aa5356.js.map",
     "static/css/2.bb342caa.chunk.css": "/WL_React_photo-gallery/static/css/2.bb342caa.chunk.css",
     "static/js/2.cfd89816.chunk.js": "/WL_React_photo-gallery/static/js/2.cfd89816.chunk.js",
     "static/js/2.cfd89816.chunk.js.map": "/WL_React_photo-gallery/static/js/2.cfd89816.chunk.js.map",
     "index.html": "/WL_React_photo-gallery/index.html",
-    "precache-manifest.1ff066c251af24312d0e85493090e4d8.js": "/WL_React_photo-gallery/precache-manifest.1ff066c251af24312d0e85493090e4d8.js",
+    "precache-manifest.e9c2234d3f90587b8640d9f72c247199.js": "/WL_React_photo-gallery/precache-manifest.e9c2234d3f90587b8640d9f72c247199.js",
     "service-worker.js": "/WL_React_photo-gallery/service-worker.js",
     "static/css/2.bb342caa.chunk.css.map": "/WL_React_photo-gallery/static/css/2.bb342caa.chunk.css.map",
     "static/css/main.ee83c3cf.chunk.css.map": "/WL_React_photo-gallery/static/css/main.ee83c3cf.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.bb342caa.chunk.css",
     "static/js/2.cfd89816.chunk.js",
     "static/css/main.ee83c3cf.chunk.css",
-    "static/js/main.c6cc218e.chunk.js"
+    "static/js/main.3de50b19.chunk.js"
   ]
 }
