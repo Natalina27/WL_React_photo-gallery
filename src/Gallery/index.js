@@ -18,6 +18,7 @@ export const Gallery = () => {
                     key={id}
                     src={src}
                     alt="img"
+                    onClick={handleNextClick}
                 />
             );
         });
@@ -63,8 +64,8 @@ export const Gallery = () => {
         <>
             <h1 className = 'title'>Галерея</h1>
             <div className = 'gallery-wrapper'>
-                <div className = 'gallery'>
-                    <div>{ createImageJSX() }</div>
+                <div className = 'gallery' >
+                    <div onClick={handleNextClick}>{ createImageJSX() }</div>
                 </div>
                 <div className = 'buttons-wrapper'>
                     <div className = 'buttons' >
