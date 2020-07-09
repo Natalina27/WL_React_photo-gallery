@@ -37,7 +37,7 @@ export const Gallery = () => {
                         <li>Условия: {price ? 'Бесплатно' : '$10'}</li>
                     </ul>
                 </div>
-                <img src = { src } />
+                <img src = { src }  />
             </>
         );
     };
